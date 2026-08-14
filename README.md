@@ -1,4 +1,4 @@
-# ☕ Java — Abstração 🧩
+# Java — Abstração 🧩
 
 Repositório dedicado à prática do pilar de **Abstração** em Programação Orientada a Objetos (POO), modelando entidades, atributos e comportamentos do mundo real em classes Java.
 
