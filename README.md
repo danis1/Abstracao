@@ -1,18 +1,15 @@
-# Exercícios Práticos de Abstração em Java
+# ☕ Java — Abstração 🧩
 
-> Repositório dedicado à prática do pilar de **Abstração** em Programação Orientada a Objetos (POO), modelando entidades, atributos e comportamentos do mundo real em classes Java.
-
----
-
-# Abstração - Orientação a Objetos em Java
-
-> 🎓 **Trabalho Acadêmico**  
-> Projeto desenvolvido para a disciplina de **Técnicas de Programação I** do curso de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande**.
+Repositório dedicado à prática do pilar de **Abstração** em Programação Orientada a Objetos (POO), modelando entidades, atributos e comportamentos do mundo real em classes Java.
 
 ---
 
+### 🎓 Trabalho Acadêmico
+Projeto desenvolvido para a disciplina de **Técnicas de Programação I** do curso de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande**.
 
-## Lista de Exercícios de Abstração
+---
+
+### 📋 Lista de Exercícios de Abstração
 
 | Exercício | Conceito Abordado | Foco da Abstração |
 | :--- | :--- | :--- |
@@ -30,10 +27,13 @@
 
 ---
 
-## Tecnologias
+### 🛠️ Tecnologias
 * **Linguagem:** Java 17+
 * **IDE:** Eclipse IDE
 * **Conceito Chave:** Abstração, Classes, Atributos e Métodos
 
 ---
-*Desenvolvido por Daniela.*
+
+<p align="center">
+  Desenvolvido por <b>Daniela</b>
+</p>
