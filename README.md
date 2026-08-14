@@ -4,6 +4,14 @@
 
 ---
 
+# Abstração - Orientação a Objetos em Java
+
+> 🎓 **Trabalho Acadêmico**  
+> Projeto desenvolvido para a disciplina de **Técnicas de Programação I** do curso de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande**.
+
+---
+
+
 ## Lista de Exercícios de Abstração
 
 | Exercício | Conceito Abordado | Foco da Abstração |
