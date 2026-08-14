@@ -1,0 +1,18 @@
+# Arquivos compilados do Java
+/bin/
+/out/
+*.class
+
+# Configurações do Eclipse
+.settings/
+.project
+.classpath
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
